@@ -1,3 +1,3 @@
-# 🚀 Figma Prototype - [Project Name]
+# 🚀 Figma Prototype - [FIGNIKE]
 
 ![Preview](nike.png) 
